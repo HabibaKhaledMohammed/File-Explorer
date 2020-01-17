@@ -1,0 +1,28 @@
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\File Explorer.csprojAssemblyReference.cache
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\FileItem.baml
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\FileItem.g.cs
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\Home.g.cs
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\MainWindow.g.cs
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\RenameWindow.g.cs
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\App.g.cs
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\GeneratedInternalTypeHelper.g.cs
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\File Explorer_MarkupCompile.cache
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\File Explorer_MarkupCompile.lref
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\bin\Debug\File Explorer.exe.config
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\bin\Debug\File Explorer.exe
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\bin\Debug\File Explorer.pdb
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\bin\Debug\FluentWPF.dll
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\bin\Debug\MaterialDesignColors.dll
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\bin\Debug\MaterialDesignThemes.Wpf.dll
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\bin\Debug\MaterialDesignThemes.Wpf.pdb
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\App.baml
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\Dictionary.baml
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\Home.baml
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\MainWindow.baml
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\RenameWindow.baml
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\File Explorer.g.resources
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\FileExplorer.Properties.Resources.resources
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.GenerateResource.cache
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\File Explorer.csproj.CopyComplete
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\File Explorer.exe
+E:\collage\Second year\SecondTerm\Files\Project\File Explorer\File Explorer\obj\Debug\File Explorer.pdb
