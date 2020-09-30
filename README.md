@@ -47,4 +47,6 @@ to create a File Browser, which is based on a own API. So can everyone build his
  + using C# Language ,Wpf Libraries, batch files. 
 # Other ScreenShots:
  ![Screenshot (732)](https://user-images.githubusercontent.com/48651088/94733967-d03be380-0368-11eb-83fc-a144b0b881e4.png)
+ ![Screenshot (735)](https://user-images.githubusercontent.com/48651088/94734252-3e80a600-0369-11eb-83dd-4ac6ca4e6572.png)
+ ![Screenshot (734)](https://user-images.githubusercontent.com/48651088/94734272-450f1d80-0369-11eb-86b4-022be646f2be.png)
 
