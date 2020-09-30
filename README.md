@@ -1,5 +1,5 @@
 # File-Explorer
-![FileExplorer](https://user-images.githubusercontent.com/48651088/72661338-4c5fe800-39e1-11ea-9705-920fca358656.png)
+![Capture](https://user-images.githubusercontent.com/48651088/94729688-543e9d00-0362-11eb-894a-8f11a1a7bd13.png)
 
 File Explorer
 
