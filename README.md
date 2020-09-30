@@ -26,7 +26,7 @@ to create a File Browser, which is based on a own API. So can everyone build his
   * The Project support to stores data in XML files.
   *  The Project stores the whole operations as a path (text) type in files. 
   
-# Core Features and Growing
+# Features:
  + Read/Write from the disk (treating with the HD)
  + Copy/Cut/Paste from the app
  + Delete Items
@@ -42,3 +42,9 @@ to create a File Browser, which is based on a own API. So can everyone build his
  + activity log (book all the action happend in XML file with details of the PC/User)
  + Expand or shrink the Menu
  + Every Different Extension has a beautiful sutibale icon
+# Development:
+ + Developed using Visual Studio 2019
+ + using C# Language ,Wpf Libraries, batch files. 
+# Other ScreenShots:
+  ![Screenshot (728)](https://user-images.githubusercontent.com/48651088/94733677-6b808900-0368-11eb-87ac-9f97f3938b9e.png)
+
