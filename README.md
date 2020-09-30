@@ -1,6 +1,5 @@
 # File-Explorer
-![Capture](https://user-images.githubusercontent.com/48651088/94729688-543e9d00-0362-11eb-894a-8f11a1a7bd13.png)
-
+![Screenshot (729)](https://user-images.githubusercontent.com/48651088/94731414-037c7380-0365-11eb-87bb-229066c811ac.png)
 File Explorer
 
 30.03.2019
