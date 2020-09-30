@@ -26,18 +26,19 @@ to create a File Browser, which is based on a own API. So can everyone build his
   * The Project support to stores data in XML files.
   *  The Project stores the whole operations as a path (text) type in files. 
   
-#Core Features and Growing
- 1. Read/Write from the disk (treating with the HD)
- 1. Copy/Cut/Paste from the app
- 1. Delete Items
- 1. Make new folder
- 1. Navigation history (back only)
- 1. Find by typing
- 1. Explode folder (list all inner items in folder)
- 1. Path-box with navigation by path & name & extention & type & size & modified time Quick rename
- 1. Sort files and folders (by Ascending & descending & modified time)
- 1. Quick-access locations
- 1. Navigate by path
- 1. Maximize and minimize the window
- 1. activity log (book all the action happend in XML file with details of the PC/User)
-
+# Core Features and Growing
+ + Read/Write from the disk (treating with the HD)
+ + Copy/Cut/Paste from the app
+ + Delete Items
+ + Make new folder
+ + Navigation history (back only)
+ + Find by typing
+ + Explode folder (list all inner items in folder)
+ + Path-box with navigation by path & name & extention & type & size & modified time Quick rename
+ + Sort files and folders (by Ascending & descending & modified time)
+ + Quick-access locations
+ + Navigate by path
+ + Maximize and minimize the window
+ + activity log (book all the action happend in XML file with details of the PC/User)
+ + Expand or shrink the Menu
+ + Every Different Extension has a beautiful sutibale icon
